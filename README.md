@@ -5,7 +5,7 @@ To install:
 
 ```R
 require(devtools)
-devtools::install_github("rstudio/addinexamples", type = "source")
+devtools::install_github("rstudio/RDash", type = "source")
 ```
 
 Rdash allows to to insert a commened dash line into your script:
