@@ -5,5 +5,6 @@ To install:
 `require(devtools)
 devtools::install_github("rstudio/addinexamples", type = "source")`
 
-Rdash allows to to insert a commened dash line into your script: 
+Rdash allows to to insert a commened dash line into your script:
+
 `#--------------------- ....`
