@@ -1,5 +1,0 @@
-Name: Insert Dash Line
-Description: Inserts `#----(...)` at the cursor position. Number of dashes can
-    be specified.
-Binding: insertDashLine
-Interactive: false
