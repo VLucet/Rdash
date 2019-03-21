@@ -1,6 +1,6 @@
 Package: Rdash
 Type: Package
-Title: An RStudio Addin to insert a commented dash line into a script
+Title: A RStudio Addin to insert a commented dash line into a script
 Version: 0.1.0
 Maintainer: Valentin Lucet <valentin.lucet@mail.mcgill.ca>
 Description: Rdash is an add-in for Rstudio that inserts a  commented dash line
