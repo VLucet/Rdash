@@ -1,0 +1,14 @@
+Package: Rdash
+Type: Package
+Title: An RStudio Addin to insert a commented dash line into a script
+Version: 0.1.0
+Maintainer: Valentin Lucet <valentin.lucet@mail.mcgill.ca>
+Description: Rdash is an add-in for Rstudio that inserts a  commented dash line
+    of the form (#----------...) into your script. 
+Imports:
+    rstudioapi (>= 0.4)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Authors@R: person("Valentin", "Lucet", email = "valentin.lucet@mail.mcgill.ca", 
+    role = c("aut", "cre"))

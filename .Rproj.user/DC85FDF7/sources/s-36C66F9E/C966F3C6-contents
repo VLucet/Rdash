@@ -1,0 +1,17 @@
+\name{insertLine}
+\alias{insertLine}
+\title{Build and insert line}
+\usage{
+insertLine(dashnb = 79)
+}
+\description{
+Insert a commented dash line of the form "#-----" into current script. The
+function insertDashLine is a wrapper for the function insertLine that takes a
+dashnb argument specifying the number od dashes one would want to have after
+the "#". This arument is buil-in as 79 by default to cply with the default
+margin in Rstudio of 80 character.
+}
+\examples{
+insertDashLine()
+}
+

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553196630799.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "86683341",
+    "lastKnownWriteTime" : 1553197834,
+    "last_content_update" : 1553197834368,
+    "path" : "~/Documents/DocumentsMBP/GitHub/Rdash/man/insertDashLine.Rd",
+    "project_path" : "man/insertDashLine.Rd",
+    "properties" : {
+        "cursorPosition" : "14,26",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
