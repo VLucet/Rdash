@@ -1,5 +1,6 @@
 # Rdash
-A RStudio Addin to insert a commented dash line into a script.
+A RStudio Addin to insert a commented dash line into a script 
+(Is redundant with some functionnality of RStudio but written as practice for making package)
 
 To install: 
 
